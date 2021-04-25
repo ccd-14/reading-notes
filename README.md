@@ -5,5 +5,4 @@
 
 ![](TCPIP-Illustrated_Volume-1/images/book_cover.jpg)
 
-<div align=center><img width="" height="" src="TCPIP-Illustrated_Volume-1/images/book_cover.jpg"/></div>
 
