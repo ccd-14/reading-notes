@@ -1,5 +1,5 @@
 
 # 《TCP/IP详解卷1：协议》
-![baidu](./TCP)
 
+[TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
 
