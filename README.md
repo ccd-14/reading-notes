@@ -5,5 +5,5 @@
 
 ![](TCPIP-Illustrated_Volume-1/images/book_cover.jpg)
 
-<div align=center><img width="200" height="450" src="TCPIP-Illustrated_Volume-1/images/book_cover.jpg"/></div>
+<div align=center><img width="100" height="250" src="TCPIP-Illustrated_Volume-1/images/book_cover.jpg"/></div>
 
