@@ -1,0 +1,1 @@
+![book_cover.jpg](0)
