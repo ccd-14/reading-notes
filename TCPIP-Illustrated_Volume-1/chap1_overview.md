@@ -13,6 +13,7 @@
 ## ip地址
 ip地址长度为32bit，是每个接口唯一的网络标识，其基本结构如下图所示：
 <div align=left><img width="430" height="300" src="./images/ip-address.PNG"/></div>
-
+- 每个接口对应一个唯一的ip地址
+- ip地址范围主机号和网络号，网络号由InterNIC（）
 
 
