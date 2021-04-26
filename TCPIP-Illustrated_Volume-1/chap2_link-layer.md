@@ -16,4 +16,5 @@
 
 **以太帧的结构**  
 以太网帧是将网络层（IP/ICMP...）的数据报添加帧头和帧尾进行封装
-<div align=left><img width="530" height="350" src="./images/以太帧结构.JPG"/></div>
+<div align=left><img width="530" height="350" src="./images/以太帧结构.JPG"/></div>  
+主要字段含义如下：
