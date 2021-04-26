@@ -16,4 +16,4 @@
 
 **以太帧的结构**  
 
-<div align=left><img width="430" height="300" src="./images/以太帧结构.JPG"/></div>
+<div align=left><img width="530" height="350" src="./images/以太帧结构.JPG"/></div>
