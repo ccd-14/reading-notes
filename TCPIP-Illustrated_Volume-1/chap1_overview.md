@@ -9,4 +9,4 @@
 构造互联网主要是将两个或多个网络通过`路由器`进行连接，每个路由器上可连接相同网段下的多个主机。下图是通过路由器连接不同的网络：  
 
 ![](./images/路由器连接不同的网络.PNG)
-<div align=center><img width="80" height="150" src="./images/路由器连接不同的网络.PNG"/></div>
+<div align=center><img width="280" height="250" src="./images/路由器连接不同的网络.PNG"/></div>
