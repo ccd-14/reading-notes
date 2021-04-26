@@ -40,8 +40,10 @@ TCP和UDP使用 16 bit的端口识别**应用程序**，一个主机/IP地址上
 
 ## 疑难点
 ### 1. 端到端通信与点到点区别
-网络可抽象为两层：**infrastructure** + **application**  
-infrastructure
+网络可抽象为两层：`infrastructure` + `application`   
+**infrastructure** 基础架构层，包含物理层、链路层、网络层  
+**application** 包含应用层、传输层  
+
 
 
 
