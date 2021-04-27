@@ -11,6 +11,7 @@
 <div align=left><img width="430" height="300" src="./images/路由器连接不同的网络.PNG"/></div>
 
 ## IP地址
+<span d="ip地址"></span>  
 ip地址长度为32bit，是每个接口唯一的网络标识，其基本结构如下图所示：
 <div align=left><img width="430" height="300" src="./images/ip-address.PNG"/></div>
 
