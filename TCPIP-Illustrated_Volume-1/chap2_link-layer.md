@@ -36,7 +36,8 @@
 
 ## 以太网数据传输过程  
 要求在`局域网`内完成**相邻设备**的数据帧传输   
-<div align=left><img width="430" height="300" src="./images/以太网传输示意图.png"/></div>     
+<div align=left><img width="430" height="300" src="./images/以太网传输示意图.png"/></div>  
+     
 
 
 ## 疑难点  
