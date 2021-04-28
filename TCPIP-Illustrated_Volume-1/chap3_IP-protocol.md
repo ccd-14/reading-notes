@@ -11,7 +11,7 @@
 通过子网掩码可以得知，网络号位数+子网号位数=24bit，**主机号位数** 8bit，又是B类IP地址，所以，网络号为16bit，则**子网号位数**为8bit  
 
 ## IP报文格式
-
+<div align=left><img width="430" height="250" src="./images/IP报文格式.JPG"/></div> 
 
 ## IP报文转发过程
 - 若源主机A与目标主机B属于**同一网段**，则直接通过ARP协议将目标IP地址（B）转换为MAC地址，发送至B
