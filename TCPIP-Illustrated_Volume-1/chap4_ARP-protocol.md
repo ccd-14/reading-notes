@@ -41,7 +41,9 @@ ARP 工作流程分为两个阶段，一个是 ARP 请求过程，另一个是AR
  
 ## 不同网络主机间通信具体过程：
 下图为主机A到主机C的路由过程：  
-<div align=left><img width="600" height="300" src="./images/数据路由过程.png"/></div>  
+<div align=left><img width="550" height="280" src="./images/数据路由过程.png"/></div>  
+  
+
 
 
 
