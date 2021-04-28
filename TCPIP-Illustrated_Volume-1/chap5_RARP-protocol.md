@@ -3,4 +3,4 @@
 
 ## ARAP数据帧格式
 
-与[ARP数据帧格式]（./chap4_ARP-protocol.md/# ARP数据帧格式）基本相同，
+与[ARP数据帧格式]（./chap4_ARP-protocol.md/#ARP数据帧格式）基本相同，
