@@ -6,7 +6,7 @@
 
 ## ARP数据帧格式
 在以太网上解析IP地址时，ARP请求和响应数据帧的格式如下：  
-<div align=left><img width="700" height="150" src="./images/以太网ARP数据帧格式.png"/></div>   
+<div align=left><img width="750" height="150" src="./images/以太网ARP数据帧格式.png"/></div>   
 其中，每个字段的含义如下： 
  
 |字段|含义|
