@@ -16,7 +16,7 @@ ARP和RARP以**广播方式请求**，以**单播方式应答**。
 ## 疑难点
 ### 1. NAT技术
 IPv4最多只能支持40+亿个IP地址，不够使用。因此，引入**NAT**（Network Address Translation）技术,将内网设备的IP地址与对应的唯一的外网地址相互转化。内网设备使用同一外网地址，为了区分具体哪个设备在请求网络服务，可以通过内网**IP地址**和**端口（port）号**确定。转换示意图如下：  
-<div align=left><img width="550" height="280" src="./images/NAT.png"/></div>  
+<div align=left><img width="500" height="250" src="./images/NAT.png"/></div>  
  
 NAT表保存了旧的地址、端口号与新的地址端口号映射关系：
 |方向|旧的地址和端口|新的地址与端口|
