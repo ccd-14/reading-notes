@@ -15,6 +15,6 @@ ARP和RARP以**广播方式请求**，以**单播方式应答**。
 
 ## 疑难点
 ### 1. NAT技术
-IPv4最多只能支持40+亿个IP地址，不够使用。因此，引入NAT（Network Address Translation）技术
+IPv4最多只能支持40+亿个IP地址，不够使用。因此，引入**NAT**（Network Address Translation）技术,将内网设备的IP地址与对应的唯一的外网地址相互转化。内网设备使用同一外网地址，为了区分具体哪个设备在请求网络服务，可以通过内网IP
 
 
