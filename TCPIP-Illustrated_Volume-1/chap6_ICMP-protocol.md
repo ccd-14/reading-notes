@@ -1,7 +1,7 @@
 # ICMP协议：控制报文协议
 由于 IP 协议简单，数据传输天然存在不可靠、无连接等特点，为了解决数据传输出现的问题，引入了ICMP协议。ICMP 协议用于在 IP 主机和路由器之间传递控制消息，描述网络是否通畅、主机是否可达、路由器是否可用等网络状态。它可以跟踪消息，把问题反馈给源主机。 
  
-:bulb:  ICMP 协议的数据包并**不传输用户数据**，但是对于用户数据的传递起着重要的作用。
+:warning:  ICMP 协议的数据包并**不传输用户数据**，但是对于用户数据的传递起着重要的作用。
 
 ## ICMP报文格式
 ICMP报文分为**差错报文**（不可达信息）、**查询报文**（请求、应答等）。报文格式如下：
@@ -21,7 +21,7 @@ ICMP查询报文，以请求/应答为例：
 ICMP差错报文，以目的不可达为例： 
 <div align=left><img width="500" height="150" src="./images/ICMP目的不可达报文.JPG"/></div>
 
-:heavy_exclamation_mark: 产生差错的数据报IP首部 + 原始IP数据报中数据的前8字节
+:heavy_exclamation_mark: ICMP差错报文数据部分 = 产生差错的数据报IP首部 + 原始IP数据报中数据的前8字节
 
 <details> 
 <summary>常见ICMP类型和代码对应表如下所示:</summary> 
@@ -66,7 +66,7 @@ ICMP差错报文，以目的不可达为例：
  以差错报文为例：
 <div align=left><img width="500" height="200" src="./images/ICMP差错报文封装.png"/></div>
 
-
+## :bulb:    疑难点
 
 
 
