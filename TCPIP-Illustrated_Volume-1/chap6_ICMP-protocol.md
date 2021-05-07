@@ -21,9 +21,7 @@ ICMP查询报文，以请求/应答为例：
 ICMP差错报文，以目的不可达为例： 
 <div align=left><img width="400" height="100" src="./images/ICMP目的不可达报文.JPG"/></div>
 
-
-
-产生差错的数据报IP首部 + 原始IP数据报中数据的前8字节
+:heavy_exclamation_mark: 产生差错的数据报IP首部 + 原始IP数据报中数据的前8字节
 
 <details> 
 <summary>常见ICMP类型和代码对应表如下所示:</summary> 
