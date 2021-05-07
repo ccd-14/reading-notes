@@ -16,10 +16,10 @@ ICMP报文分为**差错报文**（不可达信息）、**查询报文**（请�
 |数据部分|查询报文和差错报文有所不同|
 
 ICMP查询报文，以请求/应答为例： 
-<div align=left><img width="400" height="100" src="./images/ICMP请求-应答报文.JPG"/></div>
+<div align=left><img width="500" height="150" src="./images/ICMP请求-应答报文.JPG"/></div>
 
 ICMP差错报文，以目的不可达为例： 
-<div align=left><img width="400" height="100" src="./images/ICMP目的不可达报文.JPG"/></div>
+<div align=left><img width="500" height="150" src="./images/ICMP目的不可达报文.JPG"/></div>
 
 :heavy_exclamation_mark: 产生差错的数据报IP首部 + 原始IP数据报中数据的前8字节
 
