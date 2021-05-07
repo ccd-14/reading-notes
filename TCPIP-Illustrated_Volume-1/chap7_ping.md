@@ -4,3 +4,9 @@ ping程序主要是为了测试另一台主机是否可达。ICMP回显报文会
 ## ping程序ICMP报文格式
 <div align=left><img width="500" height="150" src="./images/ICMP请求-应答报文.JPG"/></div>
  
+主要字段含义如下：
+|字段|含义|
+|-|-|
+|类型|0表示回显应答（ping 应答），8回显请求（ping 请求）|
+|代码|为0|
+|标识符||
