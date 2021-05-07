@@ -67,7 +67,8 @@ ICMP差错报文，以目的不可达为例：
 <div align=left><img width="500" height="200" src="./images/ICMP差错报文封装.png"/></div>
 
 ## :bulb:    疑难点
-### :one:  为什么ICMP差错报文数据部分需要包含差错IP首部和后8个字节数据  
+#### :one:  为什么ICMP差错报文数据部分需要包含差错IP首部和后8个字节数据  
+
 
 
 
