@@ -5,5 +5,5 @@
 
 # ICMP报文格式
 ICMP报文分为**差错报文**（不可达信息）、**查询报文**（请求、应答等）。报文格式如下：
-<div align=left><img width="300" height="150" src="./images/NAT.png"/></div>
+<div align=left><img width="450" height="150" src="./images/ICMP报文格式.JPG"/></div>
 
