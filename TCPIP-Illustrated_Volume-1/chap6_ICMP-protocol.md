@@ -63,7 +63,8 @@ ICMP差错报文，以目的不可达为例：
 </details>  
 
 ## ICMP报文封装
- 
+ 以差错报文为例：
+<div align=left><img width="500" height="200" src="./images/ICMP差错报文封装.png"/></div>
 
 
 
