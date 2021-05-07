@@ -16,10 +16,10 @@ ICMP报文分为**差错报文**（不可达信息）、**查询报文**（请�
 |数据部分|查询报文和差错报文有所不同|
 
 ICMP查询报文，以请求/应答为例： 
-<div align=left><img width="400" height="100" src="./images/ICMP请求-应答报文.JPG"/></div>
+<div align=left><img width="430" height="120" src="./images/ICMP请求-应答报文.JPG"/></div>
 
 ICMP差错报文，以目的不可达为例： 
-<div align=left><img width="400" height="100" src="./images/ICMP目的不可达报文.JPG"/></div>
+<div align=left><img width="430" height="120" src="./images/ICMP目的不可达报文.JPG"/></div>
 
 
 
@@ -30,8 +30,8 @@ ICMP差错报文，以目的不可达为例：
  
 类型	 代码	 含义  
 0	     0	   回显应答（ping 应答）  
-3	0	网络不可达  
-3	1	主机不可达  
+3	     0	   网络不可达  
+3	     1	   主机不可达  
 3	2	协议不可达  
 3	3	端口不可达  
 3	4	需要进行分片，但设置不分片位  
