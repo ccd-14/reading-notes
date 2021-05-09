@@ -20,7 +20,12 @@
 ## ICMP重定向差错
 当IP数据报应该被发送到另一个路由器	R2时，收到数据报的路由器R1就要发送 ICMP重定向差
 错报文给IP数据报的发送端。
-<div align=left><img width="450" height="120" src="./images/ICMP重定向.JPG"/></div>
+<div align=left><img width="450" height="220" src="./images/ICMP重定向.JPG"/></div>  
+
+工作过程如下：
+1. 若R1是主机的默认路由，则主机可能将数据报发送至R1；
+2. R12接收到数据报并查询路由表，发现R2是下一跳。当把数据报转发至R2时，发现
+
 
 
 
