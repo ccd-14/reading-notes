@@ -32,6 +32,7 @@
 其中，请求报文格式（如广播）如下：
 <div align=left><img width="400" height="120" src="./images/ICMP请求报文.JPG"/></div> 
 
+路由器在一份报文中可以通告多个地址。其中，IP地址必须是发送路由器的某个地址。优先级是一个有符号的 32 bit整数，指出该 IP地址作为默认路由器地址的优先等级，如下图所示：
 
 <div align=left><img width="450" height="220" src="./images/ICMP通告报文.JPG"/></div> 
 
