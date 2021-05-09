@@ -1,2 +1,3 @@
 ## 静态IP选路
 选路是IP最重要的功能之一，它决定了数据报在网络中传输的路径。其主要实现基于路由表，通过指令`netstat -r`可以显示路由表，如下图所示：
+<div align=left><img width="500" height="150" src="./images/路由表.JPG"/></div>
