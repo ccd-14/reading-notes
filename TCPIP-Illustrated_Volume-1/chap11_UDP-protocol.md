@@ -1,5 +1,10 @@
 ## UDP:用户数据报协议
 UDP是一个简单的面向数据报的运输层协议，是一种[无连接](./#无连接)、**不可靠**的传输协议。UDP报文格式如下：
+<div align=left><img width="400" height="150" src="./images/UDP报文格式.JPG"/></div> 
+
+
+
+
 
 
 
