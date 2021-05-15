@@ -3,4 +3,4 @@ DNS是一种用于TCP/IP应用程序的分布式数据库，提供主机名字�
 - gethostbyname(3):接收到主机名字返回IP地址；
 - gethostbyaddr(3):接收IP地址返回主机名字。
 
-##
+## DNS报文格式
