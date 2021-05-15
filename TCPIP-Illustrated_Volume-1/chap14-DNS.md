@@ -5,7 +5,7 @@ DNS是一种用于TCP/IP应用程序的分布式数据库，提供主机名字�
 
 ## DNS报文格式
 报文由12个字节长的首部和4个长度可变的字段组成。
-<div align=left><img width="520" height="150" src="./images/DNS报文.JPG"/></div>
+<div align=left><img width="520" height="250" src="./images/DNS报文.JPG"/></div>
 
 其中：
 - 标识字段： 由客户程序设置并由服务器返回结果。客户程序通过该字段确定响应与查询是否匹配。
