@@ -16,5 +16,5 @@ DNS是一种用于TCP/IP应用程序的分布式数据库，提供主机名字�
 <div align=left><img width="420" height="250" src="./images/DNS报文封装.JPG"/></div>
 
 ## 高速缓存
-为了减少 Int e r n e t上D N S的通信量，所有的名字服务器均使用高速缓存
+为了减少网络上DNS的通信量，所有的名字服务器均使用高速缓存。
 
