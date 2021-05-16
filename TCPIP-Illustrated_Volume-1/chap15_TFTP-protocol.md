@@ -4,4 +4,4 @@ TFTP是一个简单的协议，适合于只读存储器，仅用于无盘系统�
 ### TFTP报文格式
 <div align=left><img width="500" height="250" src="./images/TFTP报文格式.JPG"/></div>
 
-TFTP有五种报文格式，
+TFTP有五种报文格式，操作码1~5区分。报文前两个字节表示操作码；文件名字段说明客户要读或写的位于服务器上的文件；
