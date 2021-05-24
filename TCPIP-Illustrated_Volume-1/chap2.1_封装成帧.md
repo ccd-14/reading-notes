@@ -15,3 +15,4 @@ MAC帧头部有8个字节的`前导码`,其中1个字节为`帧开始定界符`�
 
 <div align=left><img width="600" height="230" src="./images/MAC帧定界2.JPG"/></div>
 
+## 
