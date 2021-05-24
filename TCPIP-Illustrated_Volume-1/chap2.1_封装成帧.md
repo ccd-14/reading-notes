@@ -5,3 +5,8 @@
 
 帧头和帧尾的作用之一就是 **帧定界**：
 #### PPP帧定界
+链路层PPP帧的头部和尾部均有一个字节的`标志`字段，作为帧的分界，如下图所示：
+<div align=left><img width="600" height="250" src="./images/PPP帧定界.JPG"/></div>
+
+#### MAC帧定界
+MAC帧头部有8个字节的
