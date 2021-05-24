@@ -11,6 +11,7 @@
 #### MAC帧定界
 MAC帧头部有8个字节的`前导码`,其中1个字节为`帧开始定界符`字段，表示帧的头界限。并且，MAC地址帧有帧间间隔，所以接收方可以分辨出帧结束的位置。
 链路层PPP帧的头部和尾部均有一个字节的`标志`字段，作为帧的分界，如下图所示：
-<div align=left><img width="600" height="200" src="./images/MAC帧定界1.JPG"/></div>
+<div align=left><img width="600" height="230" src="./images/MAC帧定界1.JPG"/></div>
 
-<div align=left><img width="600" height="200" src="./images/MAC帧定界2.JPG"/></div>
+<div align=left><img width="600" height="230" src="./images/MAC帧定界2.JPG"/></div>
+
