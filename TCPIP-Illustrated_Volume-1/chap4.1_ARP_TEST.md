@@ -12,3 +12,6 @@
 
 2. ARP请求
 <div align=left><img width="500" height="220" src="./test-images/实验-ARP-4.png"/></div> 
+
+数据报封装格式：
+<div align=left><img width="400" height="420" src="./test-images/实验-ARP-5.png"/></div> 
