@@ -17,8 +17,16 @@
 <div align=left><img width="400" height="420" src="./test-images/实验-ARP-5.png"/></div> 
 
 3. ARP响应
+PC6发送:
 <div align=left><img width="600" height="220" src="./test-images/实验-ARP-6.png"/></div> 
+
+PC4接收:
+<div align=left><img width="600" height="280" src="./test-images/实验-ARP-8.png"/></div> 
 
 数据报封装格式：
 <div align=left><img width="600" height="400" src="./test-images/实验-ARP-7.png"/></div> 
+
+
+
+
 
