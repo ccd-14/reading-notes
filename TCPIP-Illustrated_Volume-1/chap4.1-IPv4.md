@@ -4,4 +4,6 @@ IPv4地址 是在因特网上的 **每一台主机**（或**路由器**）的**�
 ## 分类编址的IPv4地址
  <div align=left><img width="560" height="300" src="./images/分类的IPv4地址.PNG"/></div>   
 
+其中：
+- A类地址的
 
