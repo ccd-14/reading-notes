@@ -67,4 +67,7 @@ RIP是基于**“距离向量D-V”**，使用 **跳数** 来衡量到达目的�
 <div align=left><img width="580" height="260" src="./images/更新RIP路由表.PNG"/></div>
 
 RIP存在“坏消息传播的慢”问题，又称路由环路。
+
+### 开放最短路径优先OSPF
+
  
