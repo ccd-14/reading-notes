@@ -84,6 +84,8 @@ RIP存在“坏消息传播的慢”问题，又称路由环路。
 - [ ] 每个路由器都有一个链路状态数据库LSDB，用于存储LSA.最终个路由器的LSDB达到一致
 
 工作过程：
-<div align=left><img width="580" height="260" src="./images/更新RIP路由表.PNG"/></div>
+<div align=left><img width="580" height="300" src="./images/OSPF工作过程.PNG"/></div>
+
+
 
  
