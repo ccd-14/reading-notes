@@ -7,5 +7,6 @@
   - 聚合了不存在的网络
   - 网络故障  
 
+ <div align=left><img width="530" height="280" src="./images/静态路由配置.PNG"/></div>  
 
- 
+ 该例中，
