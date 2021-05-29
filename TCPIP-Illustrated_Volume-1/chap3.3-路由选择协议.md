@@ -64,6 +64,7 @@ RIP是基于**“距离向量D-V”**，使用 **跳数** 来衡量到达目的�
 <div align=left><img width="550" height="300" src="./images/初始RIP路由表.PNG"/></div>
 
 更新RIP路由表：
-<div align=left><img width="550" height="200" src="./images/更新RIP路由表.PNG"/></div>
+<div align=left><img width="580" height="260" src="./images/更新RIP路由表.PNG"/></div>
+
 
  
