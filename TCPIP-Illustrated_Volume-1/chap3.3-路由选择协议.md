@@ -26,4 +26,7 @@
 常见的路由选择协议如下图所示：
  <div align=left><img width="530" height="280" src="./images/常见的路由选择协议.PNG"/></div>
 
+路由表的基本结构如下：
+
+
 
