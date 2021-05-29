@@ -27,6 +27,8 @@
  <div align=left><img width="530" height="280" src="./images/常见的路由选择协议.PNG"/></div>
 
 路由表的基本结构如下：
+<div align=left><img width="550" height="300" src="./images/路由表的基本结构.PNG"/></div>
 
+路由表主要包括
 
 
