@@ -5,7 +5,7 @@
 总过程如下：
 1. ICMP请求
 各层传输过程：
-<div align=left><img width="600" height="220" src="./test-images/实验-ARP-2.png"/></div> 
+<div align=left><img width="600" height="300" src="./test-images/实验-ARP-2.png"/></div> 
 
 数据报封装格式：
 <div align=left><img width="400" height="420" src="./test-images/实验-ARP-3.png"/></div> 
