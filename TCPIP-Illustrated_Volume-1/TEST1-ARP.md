@@ -5,13 +5,13 @@
 总过程如下：
 1. ICMP请求
 各层传输过程：
-<div align=left><img width="700" height="300" src="./test-images/实验-ARP-2.png"/></div> 
+<div align=left><img width="780" height="380" src="./test-images/实验-ARP-2.png"/></div> 
 
 数据报封装格式：
 <div align=left><img width="400" height="420" src="./test-images/实验-ARP-3.png"/></div> 
 
 2. ARP请求
-<div align=left><img width="700" height="300" src="./test-images/实验-ARP-4.png"/></div> 
+<div align=left><img width="780" height="380" src="./test-images/实验-ARP-4.png"/></div> 
 
 数据报封装格式：
 <div align=left><img width="400" height="420" src="./test-images/实验-ARP-5.png"/></div> 
