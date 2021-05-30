@@ -38,7 +38,7 @@ MAC帧头部有8个字节的`前导码`,其中1个字节为`帧开始定界符`�
 - 收发双方约定好一个 生成多项式G(x)；
 - 发送方基于发送的数据和多项式计算冗余码，并将其添加到待传输数据的末尾一起传输；
 - 接收方通过多项式计算受到的数据是否产生了误码。
-<div align=left><img width="600" height="230" src="./images/循环冗余校验.JPG"/></div>
+<div align=left><img width="700" height="280" src="./images/循环冗余校验.JPG"/></div>
 
 <div align=left><img width="600" height="250" src="./images/循环冗余校验举例.JPG"/></div>
 
