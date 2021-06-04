@@ -10,7 +10,7 @@ TCP是一种传输层协议，提供一种面向连接的、可靠的字节流�
 
 ## TCP的首部
 TCP首部固定部分20字节，允许范围20~60字节
-<div align=left><img width="550" height="250" src="./images/TCP首部.PNG"/></div>
+<div align=left><img width="520" height="220" src="./images/TCP首部.PNG"/></div>
 
 每个字段的含义如下：
 |字段|含义|
