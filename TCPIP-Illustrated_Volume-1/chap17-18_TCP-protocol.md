@@ -39,7 +39,10 @@ TCP建立连接需要三次握手，具体过程如下：
 :three:  客户端收到服务器的回复（SYN+ACK 报文）。此时，客户端也要向服务器发送确认包（ACK）。此包发送完毕客户端和服务器进入 ESTABLISHED 状态。
 
 ## TCP的四次挥手
-   
+<div align=left><img width="720" height="300" src="./images/TCP断开连接.PNG"/></div>   
+
+TCP断开连接需要四次挥手，具体过程如下：
+ 
 
 ## :bulb:    疑难点
 ### 1. 为什么TCP连接需要建立三次握手？
