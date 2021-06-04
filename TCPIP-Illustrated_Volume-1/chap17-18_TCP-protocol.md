@@ -30,6 +30,7 @@ TCP首部固定部分20字节，允许范围20~60字节
 <div align=left><img width="720" height="300" src="./images/TCP建立连接.PNG"/></div> 
 
 TCP建立连接需要三次握手，具体过程如下：
-
+:one:  客户端发送一个SYN段指明客户打算连接的服务器的端口，以及初
+始序号
 
 
