@@ -27,3 +27,9 @@ TCP首部固定部分20字节，允许范围20~60字节
 |TCP选项|最多40字节，支持未来的扩展|
 
 ## TCP建立连接
+<div align=left><img width="720" height="300" src="./images/TCP建立连接.PNG"/></div> 
+
+TCP建立连接需要三次握手，具体过程如下：
+
+
+
