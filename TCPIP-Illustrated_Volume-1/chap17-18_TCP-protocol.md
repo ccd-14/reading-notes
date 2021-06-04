@@ -42,7 +42,8 @@ TCP建立连接需要三次握手，具体过程如下：
 <div align=left><img width="720" height="300" src="./images/TCP断开连接.PNG"/></div>   
 
 TCP断开连接需要四次挥手，具体过程如下：
- 
+ :one:  客户端向服务器端发送断开 TCP 连接请求的[FIN，ACK] 报文，在报文中随机生成一个序列号SEQ=x，表示要断开 TCP 连接；
+
 
 ## :bulb:    疑难点
 ### 1. 为什么TCP连接需要建立三次握手？
