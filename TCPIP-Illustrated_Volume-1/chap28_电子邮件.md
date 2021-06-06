@@ -10,6 +10,6 @@
 - [ ] 协议包括 邮件发送协议（例如SMTP）和邮件读取协议（例如POP3、IMAP）。其示意图如下：  
 <div align=left><img width="650" height="220" src="./images/邮件收发.PNG"/></div>  
 
-## 电子邮件工作原理
-
+## SMTP基本原理
+<div align=left><img width="950" height="420" src="./images/SMTP基本原理.PNG"/></div> 
 
