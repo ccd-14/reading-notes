@@ -26,9 +26,13 @@ ftp 192.168.1.1   //服务器IP地址
 ```
 2. 下载文件
 ```language
-get [remote-file][local-file]
-get /usr/remote_file/test.sh 
+get [remote-file][local-file] 
 ```
+3. 下载文件夹
+```language
+mget [remote-files]
+```
+4. 上传
 
 
 
