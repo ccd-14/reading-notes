@@ -32,7 +32,16 @@ get [remote-file][local-file]
 ```language
 mget [remote-files]
 ```
-4. 上传
+4. 上传文件
+```language
+put [local-file] [remote-file]
+```
+4. 上传文件夹
+```language
+mput [local-files] //上传文件都来自于主机的当前目录下。比如，在　/usr/my下运行的ftp命令，则只有在/usr/my下的文件linux才会上传到服务器/usr/your 下。上同。
+```
+5. 断开连接
+
 
 
 
