@@ -8,8 +8,8 @@
 - [ ] 用户代理 是用户与电子邮件系统的接口，又称为电子邮件客户端软件；
 - [ ] 邮件服务器是电子邮件系统的基础设施，其功能是发送和接收邮件，同时还要负责维护用户的邮箱；
 - [ ] 协议包括 邮件发送协议（例如SMTP）和邮件读取协议（例如POP3、IMAP）。其示意图如下：  
-<div align=left><img width="520" height="250" src="./images/邮件收发.PNG"/></div>  
+<div align=left><img width="650" height="220" src="./images/邮件收发.PNG"/></div>  
 
-
+## 电子邮件工作原理
 
 
