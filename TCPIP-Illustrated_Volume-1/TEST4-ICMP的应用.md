@@ -38,4 +38,5 @@ ping进程一般会进行连续四次的探测，命令结果如下：
 
 3. 主机PC0再次发送“TTL=2”的ICMP请求报文，超时后获得第二个经过的路由器信息，以此类推。
 
-
+最终，命令结果如下（每个TTL会重复发三次）：
+<div align=left><img width="400" height="300" src="./test-images/tracert3.PNG"/></div> 
