@@ -12,4 +12,4 @@
 <div align=left><img width="550" height="700" src="./test-images/HTTP1.PNG"/></div> 
 
 4. HTTP服务器：给HTTP客户端回传一个HTTP响应报文
-5. PC2: HTTP
+5. PC2: HTTP客户端接收到响应报文，在自身的浏览器中显示网页
