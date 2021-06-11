@@ -1,3 +1,24 @@
-<div align=left><img width="300" height="200" src="./test-images/TCP过程.PNG"/></div> 
+<div align=left><img width="400" height="200" src="./test-images/TCP过程.PNG"/></div> 
 
 ## TCP三次握手
+**第一次握手：**
+1. 设备尝试创建一个到(192.168.0.2, 端口80)的TCP连接。
+2. 设备设置连接状态为**SYN_SENT**。
+3. TCP可接受的最大窗口值为65535字节。
+4. TCP添加“最大报文段容量MSS”选项到TCP SYN的首部，其值等于1460字节。
+5. 设备发送一个**TCP SYN**报文段。
+6. Sent 报文段信息： 序号 0，ACK号 0，数据长度 24。
+
+**第二次握手：**
+输入：
+1. 设备在服务器端口80上接收到一个TCP SYN报文段。
+2. Received 报文段信息： 序号 0，ACK号 0，数据长度 24。
+3. TCP从TCP报文段首部中的最大报文段选项中获取到的MSS值为1460字节。
+4. 连接请求被接受。
+5. 设备设置连接状态为**SYN_RECEIVED**。
+输出：
+1. TCP可接受的最大窗口值为16384字节。
+2. TCP添加“最大报文段容量MSS”选项到TCP SYN-ACK的首部，其值等于536字节。
+3. 设备发送一个TCP SYN+ACK报文段。
+4. Sent 报文段信息： 序号 0，ACK号 1，数据长度 24。
+
