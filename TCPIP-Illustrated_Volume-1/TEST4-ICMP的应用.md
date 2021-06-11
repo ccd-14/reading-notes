@@ -34,3 +34,8 @@ ping进程一般会进行连续四次的探测，命令结果如下：
 <div align=left><img width="500" height="600" src="./test-images/tracert1.PNG"/></div> 
 
 2. 当ICMP请求报文到达路由器0时，**TTL=0**。此时，路由器会发送PC0一个“超时”的ICMP错误报文。PC0接收到报文后根据源IP地址判断经过的第一个路由器。
+<div align=left><img width="500" height="600" src="./test-images/tracert2.PNG"/></div> 
+
+3. 主机PC0再次发送“TTL=2”的ICMP请求报文，超时后获得第二个经过的路由器信息，以此类推。
+
+
