@@ -23,3 +23,4 @@ ping进程一般会进行连续四次的探测，命令结果如下：
 <div align=left><img width="400" height="300" src="./test-images/ping3.PNG"/></div> 
 
 ## tracert程序
+**tracert进程主要用于描述 从源主机到目的主机结果的路由器情况**。具体仿真过程如下：
