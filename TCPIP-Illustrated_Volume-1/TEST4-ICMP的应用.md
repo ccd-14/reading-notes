@@ -3,3 +3,4 @@
 <div align=left><img width="800" height="300" src="./test-images/实验-ICMP.PNG"/></div> 
 
 通过命令单步仿真ICMP报文传输过程：
+1. 主机PC0发送ICMP请求报文，输出格式如下：
