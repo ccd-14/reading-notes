@@ -31,4 +31,6 @@ ping进程一般会进行连续四次的探测，命令结果如下：
 1.4 设备设置数据包首部的**TTL字段**。
 1.5 目的IP地址与源IP地址不在同一子网，并且不是一个广播地址。
 1.6 默认网关已设置。设备设置下一跳为默认网关。
-<div align=left><img width="800" height="300" src="./test-images/tracert1.PNG"/></div> 
+<div align=left><img width="500" height="600" src="./test-images/tracert1.PNG"/></div> 
+
+2. 当ICMP请求报文到达路由器0时，**TTL=0**。此时，路由器会发送PC0一个“超时”的ICMP错误报文。PC0接收到报文后根据源IP地址判断经过的第一个路由器。
