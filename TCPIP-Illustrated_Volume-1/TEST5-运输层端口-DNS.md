@@ -9,4 +9,7 @@
 <div align=left><img width="550" height="700" src="./test-images/DNS2.PNG"/></div> 
 
 3. PC2: HTTP客户端给服务器发送一个HTTP请求。数据报中使用TCP协议（源端口1032，目的端口80-HTTP进程熟知端口）
+<div align=left><img width="550" height="700" src="./test-images/HTTP1.PNG"/></div> 
 
+4. HTTP服务器：给HTTP客户端回传一个HTTP响应报文
+5. PC2: HTTP
